@@ -2,9 +2,8 @@ class Solution {
     public int solution(int a, int b) {
         int answer = 0;
         String ab = ""+a+b;
-        String twoab = ""+(2*a*b);
         
-        answer = Integer.parseInt(ab) >= Integer.parseInt(twoab) ? Integer.parseInt(ab) : Integer.parseInt(twoab);
+        answer = Integer.parseInt(ab) >= 2*a*b ? Integer.parseInt(ab) : 2*a*b;
         return answer;
     }
 }
