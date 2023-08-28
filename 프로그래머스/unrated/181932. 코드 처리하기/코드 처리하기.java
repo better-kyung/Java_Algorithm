@@ -27,6 +27,9 @@ class Solution {
         if (answer.equals("")) {
             answer = "EMPTY";
         }
+        
+        // 이 문제의 핵심 : mode가 0이고, idx가 짝수(결국 나머지가 0)일 때 즉 mode와 짝/홀수가 일치할 때
+        // 문자열을 붙인다 !!
         return answer;
     }
 }
