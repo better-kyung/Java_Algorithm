@@ -9,7 +9,7 @@ class Solution {
         }
         
         for (int i = a; i <= b; i++) {
-            answer += (long) i;
+            answer += i;
         }
         
         return answer;
