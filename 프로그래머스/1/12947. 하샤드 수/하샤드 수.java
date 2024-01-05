@@ -5,7 +5,7 @@ class Solution {
         int total = 0;
         
         for (int i = 0; i < str.length(); i++) {
-            total += str.charAt(i) - '0';
+            total += Character.getNumericValue(str.charAt(i));
         }
         
         if (x % total == 0) {
