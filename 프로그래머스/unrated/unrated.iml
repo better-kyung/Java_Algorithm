@@ -43,6 +43,7 @@
       <sourceFolder url="file://$MODULE_DIR$/181942. 문자열 섞기" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/181943. 문자열 겹쳐쓰기" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/181944. 홀짝 구분하기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
