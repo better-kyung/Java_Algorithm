@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/12917. 문자열 내림차순으로 배치하기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12918. 문자열 다루기 기본" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12922. 수박수박수박수박수박수？" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12940. 최대공약수와 최소공배수" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12950. 행렬의 덧셈" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12969. 직사각형 별찍기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/77884. 약수의 개수와 덧셈" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/82612. 부족한 금액 계산하기" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
