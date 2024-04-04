@@ -2,6 +2,7 @@ class Solution {
     public String[] solution(String[] names) {
         int len = names.length;
         int n = 0;
+        //names.length % 5 == 0 ? names.length / 5 : names.length / 5 + 1
         if (len <= 5) {
             n = 1;
         } else if (len <= 10) {
@@ -20,7 +21,7 @@ class Solution {
         
         int i = 0;
         int idx = 0;
-        while (i < names.length) {
+        while (i < names.length) { //for (int i = 0; i < names.length; i+=5) {}
             answer[idx] = names[i];
             idx++;
             i += 5;
